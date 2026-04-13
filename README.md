@@ -11,7 +11,7 @@
 This repository is a **legacy project**. I keep it here to document my growth as a developer. While my current skills in CSS, JavaScript, and modern frameworks are much more advanced, this site represents the foundation of my web development journey.
 
 ## ⚡ Quick Access
-* **📥 [Download Project ZIP](https://github.com/GirdharKumarSahu/First-Portfolio/archive/refs/heads/main.zip)** (Replace `First-Portfolio` with your repo name)
+* **📥 [Download Project ZIP](https://github.com/GirdharKumarSahu/First-Portfolio/archive/refs/heads/main.zip)** 
 * **💻 Clone Repository:**
     ```bash
     git clone [https://github.com/GirdharKumarSahu/First-Portfolio.git](https://github.com/GirdharKumarSahu/First-Portfolio.git)
